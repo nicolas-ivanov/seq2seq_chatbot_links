@@ -1,4 +1,4 @@
-## NN-chatbot links
+## seq2seq chatbot links
 
 Links to the implementations of neural conversational models for different frameworks.
 Contributions are welcomed.
