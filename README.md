@@ -8,15 +8,17 @@ ___
 
 ##### [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA)
 Awesomely nice results:
-    Hi					→ Hi.
-    What is your name ?					→ Laura.
-    What does that mean ?					→ I dunno.
-    How old are you ?					→ thirty-five.
+
+    Hi			            	→ Hi.
+    What is your name ?			→ Laura.
+    What does that mean ?		→ I dunno.
+    How old are you ?			→ thirty-five.
 
 Along with the decent ones:
-    Who is Laura ?					→ My brother.
-    Say 'goodbye'					→ Alright.
-    Two plus two					→ manny...
+
+    Who is Laura ?				→ My brother.
+    Say 'goodbye'				→ Alright.
+    Two plus two				→ manny...
 
 ##### [nicolas-ivanov/tf_seq2seq_chatbot](https://github.com/nicolas-ivanov/tf_seq2seq_chatbot)
 Modified code of [machine translation model](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/models/rnn/translate).
