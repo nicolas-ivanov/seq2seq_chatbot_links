@@ -1,5 +1,7 @@
 ## seq2seq chatbot links
 
+> *Note: the repository is not maintained. Feel free to PM me if you'd like to take up the maintainance.*
+
 Links to the implementations of neural conversational models for different frameworks.
 Contributions are welcomed.
 
