@@ -63,6 +63,7 @@ A wrapper for [farizrahman4u/seq2seq](https://github.com/farizrahman4u/seq2seq) 
 Need to check this up.
 
 ##### [oswaldoludwig/Seq2seq-Chatbot-for-Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
+A new model of generative chatbot whose training converges in few epochs, with a model pre-trained on a small but consistent dataset collected from dialogues of English courses online.
 
     user: Hello! How are you?
     computer:  i am fine , ok , well , thank you  .    (with probability of 0.540239)
