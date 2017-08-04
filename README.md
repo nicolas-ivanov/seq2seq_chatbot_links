@@ -62,6 +62,24 @@ A wrapper for [farizrahman4u/seq2seq](https://github.com/farizrahman4u/seq2seq) 
 ##### [codekansas/keras-language-modeling](https://github.com/codekansas/keras-language-modeling)
 Need to check this up.
 
+##### [oswaldoludwig/Seq2seq-Chatbot-for-Keras](https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras)
+A new generative chatbot whose training converges in few epochs, including a model pre-trained on a small but consistent dataset collected from dialogues of English courses online.
+
+    user: Hello! How are you?
+    computer:  i am fine , ok , well , thank you  .    (with probability of 0.540239)
+    user: What's your name?
+    computer:  janet .     (with probability of 0.319482)
+    user:  What do you like to do now?
+    computer:  let me think a minute .     (with probability of 0.286760)
+    user: I want to chat about computer science.
+    computer:  i am glad to hear there .     (with probability of 0.293063)
+    user: Are you a real girl or a computer program?
+    computer:  i am self employed . i would love to be well .     (with probability of 0.026870)
+    user: Why don't you look for a job?
+    computer:  i do not know . i am the bank .     (with probability of 0.053494)
+    user: So, you don't need a job!
+    computer:  no . i have to make a lot of money .     (with probability of 0.001279)
+
 
 ## Corpora
 ##### [AlJohri/OpenSubtitles](https://github.com/AlJohri/OpenSubtitles)
