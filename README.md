@@ -1,7 +1,4 @@
 ## seq2seq chatbot links
-
-> *Note: the repository is not maintained. Feel free to PM me if you'd like to take up the maintainance.*
-
 Links to the implementations of neural conversational models for different frameworks.
 Contributions are welcomed.
 
@@ -9,15 +6,12 @@ ___
 **Tensorflow**
 
 ##### [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA)
-Awesomely nice results:
+Nice results:
 
     Hi			            	→ Hi.
     What is your name ?			→ Laura.
     What does that mean ?		→ I dunno.
     How old are you ?			→ thirty-five.
-
-Along with the decent ones:
-
     Who is Laura ?				→ My brother.
     Say 'goodbye'				→ Alright.
     Two plus two				→ manny...
@@ -34,13 +28,18 @@ No answering randomisation is implemented in this code, so the models answers wi
     are you a robot or human?	→ no .
     are you better than siri?	→ yes .
 
-##### [inikdom/neural-chatbot](https://github.com/inikdom/neural-chatbot)
-No good results so far.
-
 ___
 **Torch**
+
+##### [jiweil/Neural-Dialogue-Generation](https://github.com/jiweil/Neural-Dialogue-Generation)
+Source code for a bunch of super nice articles by Jiwei Li - one of my favorite researches in the domain of neural conversational systems. Worth checking out.
+
+    tell me ... how long have you had this falling sickness ?   → a few months, I guess .
+    so i had the doctors test sammy ’s response to conditioning .   → so he took the pills .
+    what are you going to do ?  → i ’m going to get you a new car .
+    they fear your power your intellect .   → i ’m not afraid of your power .
+    
 ##### [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo)
-One of the best results currently achieved with an open-sourced Seq2seq implementation:
 
     Hello?					→ Hi.
     How are you?			→ I'm fine.
