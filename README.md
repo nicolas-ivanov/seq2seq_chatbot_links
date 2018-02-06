@@ -110,3 +110,5 @@ Get a lot of raw movie subtitles (~1.2Gb)
 ## Papers
 Refer to this great review by Richard Krisztian Csaky:
 [Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images)
+
+as well as to his report paper in pdf: [Deep Learning Based Chatbot Models](https://tdk.bme.hu/VIK/DownloadPaper/asdad)
