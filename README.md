@@ -81,6 +81,9 @@ A new generative chatbot whose training converges in few epochs, including a mod
 
 
 ## Corpora
+##### [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://breakend.github.io/DialogDatasets/)
+A great overview of existing conversational datasets.
+
 ##### [AlJohri/OpenSubtitles](https://github.com/AlJohri/OpenSubtitles)
 Get a lot of raw movie subtitles (~1.2Gb)
 
