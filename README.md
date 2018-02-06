@@ -92,9 +92,5 @@ Get a lot of raw movie subtitles (~1.2Gb)
 
 
 ## Papers
-
-* [\[1\] Sequence to Sequence Learning with Neural Networks][1]
-* [\[2\] A Neural Conversational Model][2]
-
-[1]: http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
-[2]: http://arxiv.org/pdf/1506.05869v1.pdf
+Refer to this great review by Richard Krisztian Csaky:
+[Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images)
