@@ -3,6 +3,22 @@ Links to the implementations of neural conversational models for different frame
 Contributions are welcomed.
 
 ___
+**Theano, Lasagne**
+
+##### [lukalabs/cakechat](https://github.com/lukalabs/cakechat)
+A dialog system that is able to express emotions in a text conversation. [See online demo.](https://cakechat.replika.ai/)
+
+Sample results for neutral emotions:
+
+    hi                                → hey you
+    how are you ?                     → i ' m fine , what about you ?
+    how old are you ?                 → i ' m 16 , how old are you ?
+    are you a leader or a follower ?  → i ' m a man who is a politician .
+    my name is david . what is my name ?    → i love your name .
+    is the sky blue or black ?        → the sky is blue
+    you love anime .                  → i ' m not a weeb
+    
+___
 **Tensorflow**
 
 ##### [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA)
